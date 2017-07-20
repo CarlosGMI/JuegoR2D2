@@ -1,0 +1,23 @@
+Pared 1 0
+Pared 4 1
+Pared 2 2
+Pared 7 2 
+Pared 0 3
+Pared 2 3
+Pared 7 4
+Pared 2 5
+Pared 5 5
+Pared 5 6 
+Pared 0 7
+Pared 1 7
+Pared 4 7
+Pared 7 7
+Inicial
+Beeper 1 1
+Beeper 6 2
+Beeper 0 5
+Final 
+Beeper 1 2
+Beeper 6 3
+Beeper 2 6
+ARTURITO 3 7
